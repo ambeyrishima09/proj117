@@ -1,0 +1,30 @@
+body{
+    background-color: cadetblue;
+}
+
+#score {
+    font-size: 25px;
+    float: left;
+    margin-left: 20px;
+}
+
+#timer {
+    font-size: 25px;
+    float: right;
+    margin-right: 60px;
+}
+
+#drawsketch {
+    font-size: 35px;
+    color: mistyrose;
+}
+
+#yoursketch {
+    font-size: 30px;
+    color: darkgreen;
+}
+
+#confidence {
+    font-size: 30px;
+    color: darkgreen;
+}
